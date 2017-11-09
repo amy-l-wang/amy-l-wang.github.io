@@ -1,0 +1,15 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+	<ShortName>
+		Vipul Hadiya
+	</ShortName>
+	<Description>
+		PrestaShop and Wordpress Tutorials
+	</Description>
+	<InputEncoding>
+		UTF-8
+	</InputEncoding>
+	<Image width="16" height="16" type="image/x-icon">
+		https://www.vipulhadiya.com/wp-content/uploads/2015/03/vipul-150x150.png
+	</Image>
+	<Url type="text/html" method="get" template="https://www.vipulhadiya.com/?s={searchTerms}"/>
+</OpenSearchDescription>
